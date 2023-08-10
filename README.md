@@ -1,6 +1,6 @@
 # GPT-3 Mordern UI/UX
 
-[Live Site](https://openaigpt33.netlify.app/)
+[Live Site Link](https://openaigpt33.netlify.app/)
 
 ![GPT-3 Mordern UI/UX](https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67)
 
@@ -11,5 +11,5 @@
 - Fundamentals of the CSS BEM Model
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+
 
