@@ -3,7 +3,7 @@
 
 # GPT-3 Mordern UI/UX
 
-## [Live Site] (https://openaigpt33.netlify.app/)
+[Live Site] (https://openaigpt33.netlify.app/)
 
 ## Detail About Site
 - React Functional components and their reusability
